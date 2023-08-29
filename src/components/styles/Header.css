@@ -1,0 +1,21 @@
+/*BEGIN OF HEADER STYLES */
+.shopee-header {
+  background-color: linear-gradient(-180deg,#f53d2d,#f63);
+  transition: transform .2s cubic-bezier(.4,0,.2,1);
+}
+
+.shopee-header--sticky {
+  position: sticky;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transform: translateZ(0);
+  z-index: 100;
+}
+
+/*END OF HEADER STYLES */
+
+/*BEGIN OF CUSTOMIZE STYLES */
+
+/*END OF CUSTOMIZE STYLES */
